@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eleição para líder da turma</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cadastrar Chapas</h1>
+
+    <form action="cadastro.php" method="post">
+        <label for="nome-chapa">Nome da chapa</label>
+        <input type="text" name="nome-chapa" required>
+
+        <label for="matricula-lider">Matrícula do(a) líder</label>
+        <input type="number" name="matricula-lider" min="0" required>
+
+        <label for="nome-lider">Nome do(a) líder</label>
+        <input type="text" name="nome-lider" required>
+
+        <label for="matricula-vice">Matrícula do(a) vice-líder</label>
+        <input type="number" name="matricula-vice" min="0" required>
+
+        <label for="nome-vice">Nome do(a) vice-líder</label>
+        <input type="text" name="nome-vice" required>
+
+        <button type="submit">Enviar</button>
+    </form>
+
+    <a href="consulta.php">Consultar Chapas Cadastradas</a>
+    <a href="votacao.php">Votar Agora</a>
+</body>
+</html>
