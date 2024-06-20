@@ -11,7 +11,8 @@ Esse foi um projeto desenvolvido em PHP para disciplina de Programação Web Bac
 <img src="https://github.com/Antonio-Savio/projeto-php-eleicao-lider/assets/123228133/2397a252-c659-4b20-bec2-5f844b2289d4"/>
 
 - Visualização de Chapas Cadastradas
-![image](https://github.com/Antonio-Savio/projeto-php-eleicao-lider/assets/123228133/55890526-0281-4fd4-ad7c-79e8dfec1aac)
+<img src="https://github.com/Antonio-Savio/projeto-php-eleicao-lider/assets/123228133/55890526-0281-4fd4-ad7c-79e8dfec1aac">
+
 - Cadastro de Votos
 ![image](https://github.com/Antonio-Savio/projeto-php-eleicao-lider/assets/123228133/3101d692-9847-4cc1-ba31-c905621554f7)
 - Visualização dos Votos
