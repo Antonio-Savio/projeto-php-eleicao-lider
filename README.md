@@ -18,3 +18,5 @@ Esse foi um projeto desenvolvido em PHP para disciplina de Programação Web Bac
 
 - Visualização dos Votos
 <img width="800px" src="https://github.com/Antonio-Savio/projeto-php-eleicao-lider/assets/123228133/ef6462b6-5dcf-48e1-b9f8-73f3a6ffb2ff">
+
+## O que aprendi 📖
