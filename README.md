@@ -20,4 +20,5 @@ Esse foi um projeto desenvolvido em PHP para disciplina de Programação Web Bac
 <img width="800px" src="https://github.com/Antonio-Savio/projeto-php-eleicao-lider/assets/123228133/ef6462b6-5dcf-48e1-b9f8-73f3a6ffb2ff">
 
 ## O que aprendi 📖
-- Aprendi o que é o Xampp, o que ele suporta e como instalá-lo
+- Aprendi o que é o Xampp, o que ele suporta e como instalá-lo;
+- Como conectar o integrar o banco de dados à linguagem PHP por meio do PDO
