@@ -21,4 +21,5 @@ Esse foi um projeto desenvolvido em PHP para disciplina de Programação Web Bac
 
 ## O que aprendi 📖
 - Aprendi o que é o Xampp, o que ele suporta e como instalá-lo;
-- Como conectar o integrar o banco de dados à linguagem PHP por meio do PDO
+- Como integrar o banco de dados à linguagem PHP por meio do PDO;
+- Como criar e inserir dados em um banco MySQL
